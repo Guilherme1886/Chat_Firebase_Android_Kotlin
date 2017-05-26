@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinAppAndroid</string>
+    <string name="text_cadastrar">Cadastrar-se</string>
+    <string name="text_button_entrar">ENTRAR</string>
+    <string name="text_button_cadastrar">CADASTRAR</string>
+    <string name="message_user">Message Text</string>
+    <string name="message_here">Digite aqui...</string>
+</resources>
